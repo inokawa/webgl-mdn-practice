@@ -1,0 +1,18 @@
+{
+  "name": "webgl-practice",
+  "version": "1.0.0",
+  "description": "https://github.com/mdn/webgl-examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inokawa/webgl-practice.git"
+  },
+  "author": "inokawa <stratoooo-taster@yahoo.co.jp> (https://github.com/inokawa/)",
+  "bugs": {
+    "url": "https://github.com/inokawa/webgl-practice/issues"
+  },
+  "homepage": "https://github.com/inokawa/webgl-practice#readme"
+}
