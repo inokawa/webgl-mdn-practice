@@ -4,6 +4,7 @@
   "description": "https://github.com/mdn/webgl-examples",
   "main": "index.js",
   "scripts": {
+    "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inokawa/webgl-practice/issues"
   },
-  "homepage": "https://github.com/inokawa/webgl-practice#readme"
+  "homepage": "https://github.com/inokawa/webgl-practice#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
 }
