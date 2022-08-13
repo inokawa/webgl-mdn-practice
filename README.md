@@ -1,4 +1,4 @@
-# webgl-practice
+# webgl-mdn-practice
 
 https://github.com/mdn/webgl-examples
 
